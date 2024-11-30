@@ -10,9 +10,9 @@ library(rnassqs)
 library(readxl)
 library(dplyr)
 
-#API Token
-# NOTE: Please insert your own API token in the parentheses.
-# Sys.setenv(NASSQS_TOKEN = "Insert Token Here")
+# API Token
+# NOTE: Please insert your own NASS Quickstats API token within the parentheses.
+# Sys.setenv(NASSQS_TOKEN = "Insert Your Token Here")
 
 # Provides the NASS Quick Stat parameter names
 nassqs_params()
