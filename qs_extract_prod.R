@@ -11,7 +11,8 @@ library(readxl)
 library(dplyr)
 
 #API Token
-Sys.setenv(NASSQS_TOKEN = "387C433A-76A4-3C05-BB4A-3FC16CAB36D6")
+# NOTE: Please insert your own API token in the parentheses.
+# Sys.setenv(NASSQS_TOKEN = "Insert Token Here")
 
 # Provides the NASS Quick Stat parameter names
 nassqs_params()
