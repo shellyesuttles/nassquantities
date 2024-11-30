@@ -1,5 +1,5 @@
 # Title: Extract 2004, 2007, 2011, 2014, and 2017 Ag Census and Ag Survey data from RNASSQS
-# Subtitle: Production (Weight and $) -- For Use with WiNDC v3.0.3
+# Subtitle: Production Quantities (Various Units) -- For Use with WiNDC v3.0.3
 # Authors: Rachel Pompa
 # Date: 2 April 2023
 
